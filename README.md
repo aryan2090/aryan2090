@@ -5,9 +5,6 @@
 </div>
 <h3 align="center">Masters Student @ <a href='https://umich.edu/'>University of Michigan</a> | Applied ML Enthusiast | Data engineer</h3>
 
-
-</br>
-</br>
 </br>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=aryan2090&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
