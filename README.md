@@ -23,3 +23,13 @@
   <br>
   <br>
 </p>
+
+---
+
+## Links
+
+<p align="center">
+  <a href="mailto:aryanrajeshsharma@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/AryanS29"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/aryan2090"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+</p>
