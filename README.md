@@ -3,6 +3,8 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
+<h3 align="center">Masters Student @ <a href='https://umich.edu/'>University of Michigan</a> | Applied ML Enthusiast | Data engineer</h3>
+
 
 </br>
 </br>
