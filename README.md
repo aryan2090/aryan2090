@@ -1,7 +1,9 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aryan2090/aryan2090/blob/main/Cherry%20Blossom.png">
+<img hight="300" width="700" align="center" src="https://github.com/aryan2090/aryan2090/blob/main/Quote%231.png">
+<img hight="300" width="700" align="center" src="https://github.com/aryan2090/aryan2090/blob/main/Quote%232.png">
+<img hight="300" width="700" align="center" src="https://github.com/aryan2090/aryan2090/blob/main/Quote%233.png">
 </div>
 <h3 align="center">Masters Student @ <a href='https://umich.edu/'>University of Michigan</a> | Applied ML Enthusiast | Data engineer</h3>
 
