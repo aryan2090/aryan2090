@@ -4,16 +4,15 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 <h3 align="center">Masters Student @ <a href='https://umich.edu/'>University of Michigan</a> | Applied ML Enthusiast | Data engineer</h3>
-</br>
 
-## I little bit about me
+---
 
-🎓 &nbsp;I'm currently working towards an AWS Solutions Architect Cert
+## Little bit about me
+
+🎓 &nbsp;I'm a Masters student University of Michigan
 🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
+✍️ &nbsp;In my free time, I enjoy playing football, table tennis and reading philosophy books.\
+✉️ &nbsp;You can drop me an email at aryanrajeshsharma@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
 
 ---
 
