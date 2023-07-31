@@ -9,8 +9,8 @@
 
 ## Little bit about me
 
-🎓 &nbsp;I'm a Masters student University of Michigan
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
+🎓 &nbsp;I'm a Masters student at University of Michigan.\
+🌱 &nbsp;I'm on track with learning more about Transformers and Self-Attention Mechanism.\
 ✍️ &nbsp;In my free time, I enjoy playing football, table tennis and reading philosophy books.\
 ✉️ &nbsp;You can drop me an email at aryanrajeshsharma@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
 
