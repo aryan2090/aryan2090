@@ -27,7 +27,6 @@
 ---
 
 ## Links
-
 <p align="center">
   <a href="mailto:aryanrajeshsharma@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/AryanS29"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
